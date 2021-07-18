@@ -1,7 +1,7 @@
 # cricket-info-api
 An API which provides information about cricket teams, players, profilen matches, summary, results, tournament score table, etc.
 
-Live: https://gamewell-weather-application.herokuapp.com/
+Live:  https://alex-cricket-info.herokuapp.com/
 
 Use Postman API to access the endpoints
 
